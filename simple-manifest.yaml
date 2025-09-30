@@ -16,7 +16,7 @@ metadata:
   name: my-app
   namespace: demo-alpha
 spec:
-  replicas: 2
+  replicas: 5
   selector:
     matchLabels:
       app: my-app
